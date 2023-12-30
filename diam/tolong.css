@@ -1,0 +1,39 @@
+
+span
+{
+	color: lightyellow;
+	text-shadow: 7px 5px 23px indianred;
+	line-height: 18px;
+}
+nav
+{
+	text-align: center;
+	display: flex;
+	padding-top: 7%;
+	padding-bottom: 8%;
+	padding-left: 5%;
+}
+h2{
+	font-size: 44px;
+	text-shadow: 3px 4px deeppink;
+	color: black;
+}
+h4{
+	font-size: 24px;
+	color: mediumpurple;
+
+}
+button {
+  background-color: hotpink;
+  border: darkorchid;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 15px;
+}
+
+button{border-radius: 50%;}
+

@@ -1,0 +1,24 @@
+h4
+{
+	font-family: 'Brush Script MT', cursive;
+	font-size: 73px;
+	text-shadow:10px 20px 30px hotpink; 
+	font-stretch: expanded;
+}
+p{
+	background-color: white;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+.previous {
+  background-color: lightcoral;
+  color: black;
+}
+
+.next {
+  background-color: rebeccapurple;
+  color: white;
+}

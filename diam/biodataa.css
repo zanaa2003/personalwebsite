@@ -1,0 +1,30 @@
+.avatar {
+  vertical-align: initial;
+  width: 650px;
+  height: 600px;
+  border-radius: 350%;
+}
+h2
+{
+  background color: white;
+  text-decoration: overline;
+  text-decoration-line: underline;
+  text-align: center;
+  text-shadow: blueviolet;
+  font font-family: verdana ;
+  color: indianred;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+.previous {
+  background-color: lightcoral;
+  color: black;
+}
+
+.next {
+  background-color: rebeccapurple;
+  color: white;
+}
